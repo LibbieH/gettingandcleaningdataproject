@@ -1,7 +1,7 @@
 Peer-Graded Assignment: Getting and Cleaning Data Course Project
 ========================================
 
-Project of [Getting and Cleaning Data course on Coursera](https://www.coursera.org/course/getdata)
+Project of [Getting and Cleaning Data on Coursera](https://www.coursera.org/course/getdata)
 
 ## Project Description from Coursera
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
